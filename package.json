@@ -1,0 +1,24 @@
+{
+  "name": "auriga-air-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "srver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitkhandelwal414-svg/auriga-air-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohitkhandelwal414-svg/auriga-air-practice/issues"
+  },
+  "homepage": "https://github.com/mohitkhandelwal414-svg/auriga-air-practice#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
